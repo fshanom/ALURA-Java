@@ -13,6 +13,5 @@ public class TestaGetESet {
 		conta.getTitular().setProfissao("Programador");
 		
 		System.out.println(filipe.getProfissao());
-		
 	}
 }
